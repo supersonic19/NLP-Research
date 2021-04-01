@@ -1,3 +1,3 @@
 # NLP-Research
 
-### A project to analyse the potrayal of women in the history of cinema
+### A project to analyse hip hop songs and classify them into labels like misogynistic , violent or heavy on drug references.
